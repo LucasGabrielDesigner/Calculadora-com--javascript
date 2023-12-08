@@ -1,2 +1,8 @@
-# Calculadora-com--javascript
-Estudando a interatividade do javascript através  de uma calculadora
+# calculadora
+Calculadora Simples, estilizada com css e com calculos em js
+
+Competências:
+* HTML
+* CSS
+* JavaScript
+* Testes
