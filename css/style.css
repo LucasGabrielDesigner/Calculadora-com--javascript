@@ -3,7 +3,7 @@
 	background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fback_origin_pic%2F04%2F50%2F75%2Fbb6a62662a10dd1aac8f285b45fe471e.jpg&f=1&nofb=1&ipt=af2c5618504e87e17d389608f871bdb743c7514dd3372a717fb71ba5dbc53415&ipo=images");
 	background-repeat: no-repeat;
 	height:100vh;
-		color: white;
+		color: rgb(0, 0, 0);
 	font-family:Comic Sans Ms;
 	text-align:center;
 }
@@ -15,6 +15,8 @@
 	transform:translate(-50%,-50%);
 	border-radius:15px;
 	padding:15px;
+	box-shadow: 3px 3px 40px rgb(0, 0, 0);
+	box-shadow: -3px -3px 40px rgb(0, 0, 0);
 }
 .botao{
 	width: 50px;
@@ -29,6 +31,7 @@
 .botao:hover{
 	background-color:rgb(228, 18, 18);
 	transform: scale(1.35);
+	box-shadow: 1px 1px 3px rgb(181, 173, 173);
 }
 
 #resultado{
